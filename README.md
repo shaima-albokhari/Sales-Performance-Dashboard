@@ -48,7 +48,7 @@ An interactive Power BI dashboard for analyzing sales performance, profitability
 ## Project Structure
 
 ```
-Sales-Performance-Dashboard/
+sales-performance-dashboard/
 ├── dashboard/   # Power BI report file (.pbix)
 ├── data/        # Data files used by the dashboard
 ├── images/      # Dashboard preview image
