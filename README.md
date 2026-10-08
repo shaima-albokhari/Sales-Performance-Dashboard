@@ -46,7 +46,7 @@ The repository includes the Power BI project file and its associated report and 
 ## Getting Started
 
 1. Clone or download this repository.
-2. Open `Sales Performance Dashboard.pbip` in Power BI Desktop.
+2. Open `Sales Performance Dashboard.pbix` in Power BI Desktop.
 3. If prompted, configure the required data source and refresh the data.
 4. Explore the report using the interactive filters.
 
