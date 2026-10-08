@@ -55,6 +55,3 @@ The repository includes the Power BI project file and its associated report and 
 * KPI values represent the figures displayed in the dashboard.
 * Data source details and refresh requirements should be documented according to the actual project setup.
 
----
-
-Created as a data analytics portfolio project.
