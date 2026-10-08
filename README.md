@@ -6,6 +6,11 @@ An interactive Power BI dashboard for analyzing sales performance, profitability
 
 ![Sales Performance Dashboard](Sales-Performance-Dashboard.png)
 
+
+## Interactive Dashboard
+
+[View Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZmE5NTFiY2UtNWIxMS00NTMyLThiNzMtMmMyZDdmZDc5YzE2IiwidCI6ImUyNmJhYjRiLTk3ZTYtNDc1NC1iMTYzLTYwZjgyMzdlODUzMSIsImMiOjl9&pageName=3b7ac55658bb636b4c28)
+
 ## Key Performance Indicators
 
 | Metric              |   Value |
