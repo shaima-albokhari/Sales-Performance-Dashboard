@@ -2,14 +2,14 @@
 
 An interactive Power BI dashboard for analyzing sales performance, profitability, orders, product categories, and returns across countries from 2020 to 2022.
 
-## Dashboard Preview
-
-![Sales Performance Dashboard](Sales-Performance-Dashboard.png)
-
 
 ## Interactive Dashboard
 
 [View Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZmE5NTFiY2UtNWIxMS00NTMyLThiNzMtMmMyZDdmZDc5YzE2IiwidCI6ImUyNmJhYjRiLTk3ZTYtNDc1NC1iMTYzLTYwZjgyMzdlODUzMSIsImMiOjl9&pageName=3b7ac55658bb636b4c28)
+
+## Dashboard Preview
+
+![Sales Performance Dashboard](Sales-Performance-Dashboard.png)
 
 ## Key Performance Indicators
 
